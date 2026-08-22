@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2026-08-21",
+  "tld": "com",
+  "character_length": 4,
+  "character_set": "abcdefghijklmnopqrstuvwxyz0123456789",
+  "availability_signal": "HTTP 404 from Verisign RDAP",
+  "source_rows": 595949,
+  "unique_domains": 595745,
+  "duplicate_rows_removed": 204,
+  "canonical_file": "data/available-4char-com-2026-08-21.txt"
+}
